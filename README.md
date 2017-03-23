@@ -1,6 +1,4 @@
 # Miami 2040: Adapting to Climate Change through Industrial Design
-<hr />
-## SAT. MARCH 4 (10AM-1PM) - SAT. APRIL 8 @ THE LAB MIAMI 
 
 + [Register as a Participant](http://miami2040.eventbrite.com)
 + [Browse and Discuss](https://github.com/MiamiCollegeDesign/Miami2040/issues)
